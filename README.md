@@ -132,7 +132,7 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Emergency Room Dashboard](screenshots/emergency-room-dashboard.png)
+![Emergency Room Dashboard](hospital emergency data room.png)
 
 ---
 
